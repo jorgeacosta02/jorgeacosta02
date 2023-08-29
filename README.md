@@ -1,7 +1,10 @@
 # **Jorge Acosta**
 **Acerca de mí**
 
-Decidí ingresar al fascinante mundo del desarrollo web, por lo que me convertí en estudiante full-stack aprendiendo una gran variedad de tecnologías y lenguajes de programación. Me gusta la creación de aplicaciones web y soluciones tecnológicas innovadoras. Algo más sobre mí:
+Decidí ingresar al fascinante mundo del desarrollo web, por lo que me convertí en estudiante 
+full-stack aprendiendo una gran variedad de tecnologías y lenguajes de programación.
+Me gusta la creación de aplicaciones web y soluciones tecnológicas innovadoras.
+Algo más sobre mí:
 
     -Estudiante full-stack con experiencia en tecnologías como TypeScript, React,
     Redux, Express, Sequelize, Node.js y más.
