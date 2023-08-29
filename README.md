@@ -16,9 +16,11 @@ Decidí ingresar al fascinante mundo del desarrollo web, por lo que me convertí
 **Proyectos Destacados**
 
     Videogames: Mi proyecto individual de busqueda y carga de videojuegos. Utilizando 
-    tecnologias aprendidas en el bootcamp de henry: HTML, CSS, JavaScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL.
+    tecnologias aprendidas en el bootcamp de henry: HTML, CSS, JavaScript, React, 
+    Redux, Node.js, Express, Sequelize, PostgreSQL.
     Craftbeer: Pagina como punto de encuentro entre vendedores de cervezas artesanales 
-    y compradores de esta bebida. Proyecto Final y grupal de henry donde conoci a mis compañeros de grupo.
+    y compradores de esta bebida. Proyecto Final y grupal de henry donde conoci a mis 
+    compañeros de grupo.
 
 **Contacto**
 
