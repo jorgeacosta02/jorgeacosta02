@@ -13,8 +13,7 @@ Algo más sobre mí:
 
 **Mis Habilidades**
 
-    Front-end: HTML, CSS, TypeScript, React, Redux
-    Back-end: Node.js, Express, Sequelize, PostgreSQL
+    HTML, CSS, SASS, Bootstrap, Javascript, TypeScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL
 
 **Proyectos Destacados**
 
@@ -28,3 +27,4 @@ Algo más sobre mí:
 **Contacto**
 
     LinkedIn: https://www.linkedin.com/in/jorge-enrique-acosta-de-le%C3%B3n-8934a4122/
+    E-mail: jorgeacostadeleon@yahoo.com
