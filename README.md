@@ -1,30 +1,25 @@
 # **Jorge Acosta**
-**Acerca de mí**
 
-Decidí ingresar al fascinante mundo del desarrollo web, por lo que me convertí en estudiante 
-full-stack aprendiendo una gran variedad de tecnologías y lenguajes de programación.
-Me gusta la creación de aplicaciones web y soluciones tecnológicas innovadoras.
-Algo más sobre mí:
+**About me**
 
-    -Estudiante full-stack con experiencia en tecnologías como TypeScript, React,
-    Redux, Express, Sequelize, Node.js y más.
-    -Actualmente estudiando en Henry.
-    -Siempre aprendiendo y explorando nuevas tecnologías y enfoques.
+I decided to enter the fascinating world of web development, so I became a student
+full-stack learning a wide variety of technologies and programming languages.
+I like creating web applications and innovative technological solutions.
 
-**Mis Habilidades**
+
+**My Skills**
 
     HTML, CSS, SASS, Javascript, TypeScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, Scrum.
 
-**Proyectos Destacados**
 
-    Videogames: Mi proyecto individual de busqueda y carga de videojuegos. Utilizando 
-    tecnologias aprendidas en el bootcamp de henry: HTML, CSS, JavaScript, React, 
-    Redux, Node.js, Express, Sequelize, PostgreSQL.
-    Craftbeer: Pagina como punto de encuentro entre vendedores de cervezas artesanales 
-    y compradores de esta bebida. Proyecto Final y grupal de henry donde conoci a mis 
-    compañeros de grupo.
+**Projects**
 
-**Contacto**
+    Videogames: My individual project for searching and loading video games. Using technologies learned at Henry's bootcamp: HTML, CSS, JavaScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL.
 
-    LinkedIn: https://www.linkedin.com/in/jorge-enrique-acosta-de-le%C3%B3n-8934a4122/
+    Craftbeer: E-commerce application for the purchase and sale of craft beer. Final project of the SoyHenry course, in which we work in a group using the following technologies: HTML, CSS, JavaScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, Scrum, Figma, Trello.
+
+
+**Contact me**
+
+    LinkedIn: https://www.linkedin.com/in/jorge-acosta-de-le%C3%B3n-8934a4122/
     E-mail: jorgeacostadeleon@yahoo.com
