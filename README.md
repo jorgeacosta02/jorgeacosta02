@@ -13,7 +13,7 @@ Algo más sobre mí:
 
 **Mis Habilidades**
 
-    HTML, CSS, SASS, Bootstrap, Javascript, TypeScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL
+    HTML, CSS, SASS, Javascript, TypeScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, Scrum.
 
 **Proyectos Destacados**
 
