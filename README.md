@@ -9,7 +9,7 @@ I like creating web applications and innovative technological solutions.
 
 **My Skills**
 
-    HTML, CSS, SASS, Javascript, TypeScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, Scrum.
+    HTML, CSS, SASS, Javascript, TypeScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, MongoDB, Scrum.
 
 
 **Projects**
