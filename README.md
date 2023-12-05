@@ -14,7 +14,7 @@ I like creating web applications and innovative technological solutions.
 
 **Projects**
 
-    Videogames: My individual project for searching and loading video games. Using technologies learned at Henry's bootcamp: HTML, CSS, JavaScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL.
+    Videogames: My individual project for searching and loading video games. Using technologies learned at Henry's bootcamp: HTML, CSS, JavaScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, MongoDB, SASS.
 
     Craftbeer: E-commerce application for the purchase and sale of craft beer. Final project of the SoyHenry course, in which we work in a group using the following technologies: HTML, CSS, JavaScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, Scrum, Figma, Trello.
 
