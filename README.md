@@ -14,11 +14,17 @@ I like creating web applications and innovative technological solutions.
 
 **Projects**
 
-    Videogames: My individual project for searching and loading video games. Using technologies learned at Henry's bootcamp: HTML, CSS, JavaScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL.
+    Videogames: My individual project for searching and loading video games. 
+    Technologies: HTML, CSS, JavaScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL.
 
-    Craftbeer: E-commerce application for the purchase and sale of craft beer. Final project of the SoyHenry course, in which we work in a group using the following technologies: HTML, CSS, JavaScript, Typescript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, Scrum, Figma, Trello.
+    Craftbeer: E-commerce application for the purchase and sale of craft beer. Final project of the SoyHenry course, in which we work in a group.
+    Technologies: HTML, CSS, JavaScript, Typescript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, Scrum, Figma, Trello.
 
-    Exploservice (IN PROGRESS): drilling and blasting company application in which different aspects of the company are shown like company, services, equipment, projects, with registration of employees, equipment, operations and inventory control functions. Used technologies: HTML, CSS, Sass, JavaScript, Typescript, React, Redux, Node.js, Express, mongoDB, mongoose.
+    Exploservice (IN PROGRESS): drilling and blasting company application in which different aspects of the company are shown like company, services, equipment, projects, with registration of employees, equipment, operations and inventory control functions.
+    Technologies: HTML, CSS, Sass, JavaScript, Typescript, React, Redux, Node.js, Express, mongoDB, mongoose.
+
+    Triar (IN PROGRESS): application of a kinesiology clinic, with a sample of the facilities, professionals, services, user registration and online appointment management.
+    Technologies: HTML, CSS, Sass, JavaScript, Typescript, React, Redux, Node.js, Express, mongoDB, mongoose.
 
 
 **Contact me**
