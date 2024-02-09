@@ -9,7 +9,7 @@ I like creating web applications and innovative technological solutions.
 
 **My Skills**
 
-    HTML, CSS, SASS, Javascript, TypeScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, MongoDB, Mongoose, Scrum.
+    HTML, CSS, SASS, Javascript, TypeScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, Scrum.
 
 
 **Projects**
@@ -21,11 +21,10 @@ I like creating web applications and innovative technological solutions.
     Technologies: HTML, CSS, JavaScript, Typescript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, Scrum, Figma, Trello.
 
     Exploservice (IN PROGRESS): drilling and blasting company application in which different aspects of the company are shown like company, services, equipment, projects, with registration of employees, equipment, operations and inventory control functions.
-    Technologies: HTML, CSS, Sass, JavaScript, Typescript, React, Redux, Node.js, Express, mongoDB, mongoose.
+    Technologies: HTML, CSS, Sass, JavaScript, Typescript, React, Redux, Node.js, Express, Sequelize, PostgreSQL.
 
     Triar (IN PROGRESS): application of a kinesiology clinic, with a sample of the facilities, professionals, services, user registration and online appointment management.
-    Technologies: HTML, CSS, Sass, JavaScript, Typescript, React, Redux, Node.js, Express, mongoDB, mongoose.
-
+    Technologies: HTML, CSS, Sass, JavaScript, Typescript, React, Redux, Node.js, Express, Sequelize, PostgreSQL.
 
 **Contact me**
 
