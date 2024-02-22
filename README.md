@@ -24,7 +24,7 @@ I like creating web applications and innovative technological solutions.
     Technologies: HTML, CSS, Sass, JavaScript, Typescript, React, Redux, Node.js, Express, Sequelize, PostgreSQL.
 
     Triar (IN PROGRESS): application of a kinesiology clinic, with a sample of the facilities, professionals, services, user registration and online appointment management.
-    Technologies: HTML, CSS, Sass, JavaScript, Typescript, React, Redux, Node.js, Express, Sequelize, PostgreSQL.
+    Technologies: HTML, CSS, Sass, JavaScript, Typescript, React, Redux Toolkit, Node.js, Express, Sequelize, PostgreSQL.
 
 **Contact me**
 
