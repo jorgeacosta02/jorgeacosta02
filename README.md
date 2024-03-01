@@ -15,7 +15,7 @@ I like creating web applications and innovative technological solutions.
 **Projects**
 
     Videogames: My individual project for searching and loading video games. 
-    Technologies: HTML, CSS, JavaScript, React, Redux, Redux Toolkit, Node.js, Express, Sequelize, PostgreSQL.
+    Technologies: HTML, CSS, JavaScript, React, Redux, Node.js, Express, Sequelize, PostgreSQL.
 
     Craftbeer: E-commerce application for the purchase and sale of craft beer. Final project of the SoyHenry course, in which we work in a group.
     Technologies: HTML, CSS, JavaScript, Typescript, React, Redux, Node.js, Express, Sequelize, PostgreSQL, Scrum, Figma, Trello.
